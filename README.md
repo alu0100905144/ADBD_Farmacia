@@ -4,8 +4,7 @@
 Diseño e implementación para la base de datos de la Farmacia porpuesta.
 
 ## Modelo conceptual
-![ModeloConceptual](farmacia_modelo_conceptual.png=true)
-
+![ModeloConceptual](farmacia_modelo_conceptual.png?raw=true)
 
 ## Pruebas realizadas
 
