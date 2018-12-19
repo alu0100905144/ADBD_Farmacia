@@ -22,4 +22,4 @@ Prueba: Borrado en cascada
 
 ## Trigger
 Cada vez que un cliente convencional o de crédito realiza una compra, el trigger actualiza las unidades del medicamento vendidas y actualiza el stock para ese mismo medicamento.
-![ejecucion_trigger](/Triggers/ejecucion_trigger.png?raw=true)
+![ejecucion_trigger](/Triggers/ejecucion.png?raw=true)
